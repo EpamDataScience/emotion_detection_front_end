@@ -1,0 +1,40 @@
+.description_container {
+  text-align: center;
+  color: #6c7588;
+  padding-bottom: 40px;
+}
+
+.description_container h2 {
+  font-size: 24px;
+  font-family: PingFangSC-Semibold,Microsoft YaHei;
+  font-weight: 600;
+  margin-bottom: 32px;
+  position: relative;
+}
+
+.description_container p {
+  font-size: 14px;
+  font-family: PingFangSC-Regular,Microsoft YaHei;
+  line-height: 1.71;
+  font-weight: 400;
+  color: #434343;
+}
+
+
+.face_emotion_recognition_video_record {
+  width: 518px;
+  height: 600px;
+  border-radius: 4px;
+  background-color: #f6f7fb;
+  float: left;
+  padding: 20px;
+}
+
+.face_emotion_recognition_example_and_result {
+  width: 600px;
+  float: right;
+  vertical-align: top;
+  height: 600px;
+  overflow: hidden;
+  background-color: #f6f7fb;
+}
